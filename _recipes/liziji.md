@@ -1,7 +1,7 @@
 ---
 title: 栗子鸡
 original_title: 
-category: 炒菜 
+category: 炒菜
 description: 包饺子
 size: 80 个
 time: 2 小时 
