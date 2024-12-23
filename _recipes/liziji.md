@@ -1,24 +1,20 @@
 ---
 title: 栗子鸡
 original_title: 
-category: stir
-description: 包饺子
-size: 80 个
-time: 2 小时 
+category: Stir
+description: description
+size: 2 人份
+time: 1 小时 
 author: Yuan Zhang
-source: https://www.youtube.com/watch?v=GzCeWoXRh9o 
+source: https://www.youtube.com/watch?v=EQthbdsRezw
 ---
 
-* `500g` 面粉
-* `250g` 水
-* `3g` 盐 
-
-> 和面
+* `15` 栗子
+* `500g` 鸡肉
 
 ---
 
-* `500g` 猪肉
-* `500g` 芹菜/白菜
-
-> 和馅
+* `20g` 生抽
+* `5g` 老抽
+* `5g` 糖
 
