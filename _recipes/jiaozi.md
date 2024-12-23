@@ -1,6 +1,6 @@
 ---
-title: jiaozi
-original_title: 饺子
+title: 饺子
+original_title: 
 category: 面食
 description: 包饺子
 size: 80 个
