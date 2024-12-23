@@ -9,6 +9,8 @@ author: Yuan Zhang
 source: https://www.youtube.com/watch?v=GzCeWoXRh9o 
 ---
 
+[jiaozi example](./assets/jiaozi_2024.12.22.jpg)
+
 * `500g` 面粉
 * `250g` 水
 * `3g` 盐 
@@ -21,5 +23,4 @@ source: https://www.youtube.com/watch?v=GzCeWoXRh9o
 * `500g` 芹菜/白菜
 
 > 和馅
-
 
