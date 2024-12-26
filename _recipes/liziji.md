@@ -1,7 +1,7 @@
 ---
 title: 栗子鸡
 original_title: 
-category: Stir
+category: STIR
 description: description
 size: 2 人份
 time: 1 小时 

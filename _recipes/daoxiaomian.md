@@ -1,8 +1,8 @@
 ---
 title: 刀削面
 original_title: 
-category: 面食
-description: 刀削面
+category: MAIN
+description: 
 size: 2 人份
 time: 1 小时 
 author: Yuan Zhang
