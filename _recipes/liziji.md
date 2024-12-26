@@ -2,7 +2,7 @@
 title: 栗子鸡
 original_title: 
 category: STIR
-description: description
+description: 
 size: 2 人份
 time: 1 小时 
 author: Yuan Zhang
