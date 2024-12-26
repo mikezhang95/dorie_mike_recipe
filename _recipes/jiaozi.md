@@ -7,6 +7,7 @@ size: 80 个
 time: 2 小时 
 author: Yuan Zhang
 source: https://www.youtube.com/watch?v=GzCeWoXRh9o 
+image: ./assets/photos/jiaozi_2024.12.22.jpg
 ---
 
 * `500g` 面粉
@@ -21,5 +22,3 @@ source: https://www.youtube.com/watch?v=GzCeWoXRh9o
 * `500g` 芹菜/白菜
 
 > 和馅
-
-> ![](./assets/photos/jiaozi_2024.12.22.jpg)
