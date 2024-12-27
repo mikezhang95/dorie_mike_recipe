@@ -33,8 +33,5 @@ source: https://www.xiaohongshu.com/explore/6656f0ed000000001303ea19?app_platfor
 * `2g` 蒜
 
 > 炒香
->
-> 
->
-> ![](./assets/photos/suanxiangyupian_2024.12.25.jpg)
 
+> ![](./assets/photos/suanxiangyupian_2024.12.25.jpg)
