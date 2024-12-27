@@ -5,6 +5,7 @@ category: MAIN
 description: 
 size: 2 人份
 time: 1 小时 
+beef: ✓
 author: Yuan Zhang
 source: https://www.youtube.com/watch?v=SeRmDbHIrWk
 ---
@@ -17,8 +18,7 @@ source: https://www.youtube.com/watch?v=SeRmDbHIrWk
 
 ---
 
-* `1个` 茄子
-* `2个` 土豆
+* `500g` 牛肉
 
 > 炒卤 
 

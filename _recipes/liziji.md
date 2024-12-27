@@ -5,9 +5,9 @@ category: STIR
 description: 
 size: 2 人份
 time: 1 小时 
+chicken: ✓
 author: Yuan Zhang
 source: https://www.youtube.com/watch?v=EQthbdsRezw
-chicken: ✓
 ---
 
 * `15` 栗子
