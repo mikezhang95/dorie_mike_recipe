@@ -33,10 +33,17 @@
                 $elseif(source)$
                     <li><a href="$source$"><img src="assets/tabler-icons/tabler-icon-link.svg"> $strings.source_label$</a></li>
                 $endif$
-                $if(veggie)$$else$
-                    $if(vegan)$$else$
-                        <li><img src="assets/tabler-icons/tabler-icon-meat.svg"> $strings.meat_label$</li>
-                    $endif$
+                $if(chicken)$
+                    <li><img src="assets/tabler-icons/tabler-icon-egg.svg"> $strings.chicken_label$</li>
+                $endif$
+                $if(pork)$
+                    <li><img src="assets/tabler-icons/tabler-icon-pig.svg"> $strings.pork_label$</li>
+                $endif$
+                $if(fish)$
+                    <li><img src="assets/tabler-icons/tabler-icon-fish.svg"> $strings.fish_label$</li>
+                $endif$
+                $if(beef)$
+                    <li><img src="assets/tabler-icons/tabler-icon-meat.svg"> $strings.beef_label$</li>
                 $endif$
                 $if(vegan)$
                     <li><img src="assets/tabler-icons/tabler-icon-leaf.svg"> $strings.vegan_label$</li>

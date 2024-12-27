@@ -17,10 +17,10 @@ strings:
   source_label: Source
   vegan_label: Vegan
   meat_label: Meat
-  chicken_label: Meat
-  pork_label: Meat
-  beef_label: Meat
-  fish_label: Meat
+  chicken_label: Chicken 
+  pork_label: Pork 
+  beef_label: Beef 
+  fish_label: Fish 
   spicy_label: Spicy
   sweet_label: Sweet
   salty_label: Salty

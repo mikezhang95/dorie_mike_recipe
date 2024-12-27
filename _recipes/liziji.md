@@ -7,6 +7,7 @@ size: 2 人份
 time: 1 小时 
 author: Yuan Zhang
 source: https://www.youtube.com/watch?v=EQthbdsRezw
+chicken: ✓
 ---
 
 * `15` 栗子
