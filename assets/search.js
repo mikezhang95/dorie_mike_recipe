@@ -83,7 +83,10 @@ function showResults(results) {
             + `<h3>`
             + `<i class="icons">`
             + (e.favorite ? `<img src="assets/tabler-icons/tabler-icon-star.svg"> ` : ``)
-            + ((e.veggie || e.vegan) ? `` : `<img src="assets/tabler-icons/tabler-icon-meat.svg"> `)
+            + (e.chicken ? `<img src="assets/tabler-icons/tabler-icon-egg.svg"> ` : ``)
+            + (e.pork ? `<img src="assets/tabler-icons/tabler-icon-pig.svg"> ` : ``)
+            + (e.fish ? `<img src="assets/tabler-icons/tabler-icon-fish.svg"> ` : ``)
+            + (e.beef ? `<img src="assets/tabler-icons/tabler-icon-meat.svg"> ` : ``)
             + (e.vegan ? `<img src="assets/tabler-icons/tabler-icon-leaf.svg"> ` : ``)
             + (e.spicy ? `<img src="assets/tabler-icons/tabler-icon-pepper.svg"> ` : ``)
             + (e.sweet ? `<img src="assets/tabler-icons/tabler-icon-candy.svg"> ` : ``)
