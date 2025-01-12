@@ -1,5 +1,5 @@
 ---
-title: 刀削面
+title: 拉面
 original_title: 
 category: MAIN
 description: 
@@ -11,7 +11,7 @@ source: https://www.youtube.com/watch?v=SeRmDbHIrWk
 ---
 
 * `200g` 面粉
-* `80g` 水 
+* `116g` 水
 
 > 和面
 

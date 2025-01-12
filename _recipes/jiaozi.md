@@ -12,7 +12,7 @@ source: https://www.youtube.com/watch?v=GzCeWoXRh9o
 
 * `500g` 面粉
 
-* `250g` 水
+* `250g` 温水！
 * `3g` 盐 
 
 > 和面

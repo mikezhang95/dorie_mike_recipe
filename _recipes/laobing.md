@@ -1,23 +1,17 @@
 ---
-title: 刀削面
+title: 烙饼
 original_title: 
 category: MAIN
 description: 
-size: 2 人份
-time: 1 小时 
+size: 10 张
+time: 2 小时 
 beef: ✓
 author: Yuan Zhang
 source: https://www.youtube.com/watch?v=SeRmDbHIrWk
 ---
 
-* `200g` 面粉
-* `80g` 水 
+* `260` 面粉
+* `130g` 水
 
-> 和面
-
----
-
-* `500g` 牛肉
-
-> 炒卤 
+> 和面，35g一个剂子，
 
