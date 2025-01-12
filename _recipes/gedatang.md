@@ -5,7 +5,7 @@ category: MAIN
 description: 
 size: 2 人份
 time: 30 分钟
-beef: ✓
+vegan: ✓
 author: Yuan Zhang
 source: https://www.youtube.com/watch?v=SeRmDbHIrWk
 ---

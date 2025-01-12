@@ -5,7 +5,7 @@ category: DESSERT
 description: 
 size: 2 人份
 time: 5 分钟 
-pork: ✓
+vegan: ✓
 author: Yuan Zhang
 source: https://www.youtube.com/watch?v=GzCeWoXRh9o 
 ---
