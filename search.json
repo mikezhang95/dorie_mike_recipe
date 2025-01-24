@@ -1,6 +1,7 @@
 [
 {"beef":"✓","original_title":"","title":"刀削面","category":"MAIN","source":"https://www.youtube.com/watch?v=SeRmDbHIrWk","author":"Yuan Zhang","description":"","htmlfile":"daoxiaomian.html","size":"2 人份","time":"1 小时"}
 ,{"original_title":"","title":"疙瘩汤","category":"MAIN","source":"https://www.youtube.com/watch?v=SeRmDbHIrWk","author":"Yuan Zhang","description":"","htmlfile":"gedatang.html","vegan":"✓","size":"2 人份","time":"30 分钟"}
+,{"fish":"✓","original_title":"","title":"海鲜饭","category":"MAIN","source":"https://www.youtube.com/watch?v=GzCeWoXRh9o","author":"Dorie","description":"","htmlfile":"haixianfan.html","size":"2 人份","time":"1 小时"}
 ,{"pork":"✓","original_title":"","title":"饺子","category":"MAIN","source":"https://www.youtube.com/watch?v=GzCeWoXRh9o","author":"Yuan Zhang","description":"","htmlfile":"jiaozi.html","size":"80 个","time":"2 小时"}
 ,{"original_title":"","title":"咖啡","category":"DESSERT","source":"https://www.youtube.com/watch?v=GzCeWoXRh9o","author":"Yuan Zhang","description":"","htmlfile":"kafei.html","vegan":"✓","size":"2 人份","time":"5 分钟"}
 ,{"beef":"✓","original_title":"","title":"拉面","category":"MAIN","source":"https://www.youtube.com/watch?v=SeRmDbHIrWk","author":"Yuan Zhang","description":"","htmlfile":"lamian.html","size":"2 人份","time":"1 小时"}
@@ -8,5 +9,6 @@
 ,{"original_title":"","title":"栗子鸡","category":"STIR","source":"https://www.youtube.com/watch?v=EQthbdsRezw","author":"Yuan Zhang","chicken":"✓","description":"","htmlfile":"liziji.html","size":"2 人份","time":"1 小时"}
 ,{"fish":"✓","original_title":"","title":"萝卜虾汤","category":"SOUP","source":"","author":"Dorie","description":"","htmlfile":"luoboxiatang.html","size":"2 人份","time":"30 分钟"}
 ,{"pork":"✓","original_title":"","title":"肉饼","category":"MAIN","source":"https://www.youtube.com/watch?v=SeRmDbHIrWk","author":"Yuan Zhang","description":"","htmlfile":"roubing.html","size":"2 个肉饼","time":"2 小时"}
+,{"original_title":"","title":"酸辣鸡胗","category":"STIR","source":"https://www.youtube.com/watch?v=GzCeWoXRh9o","author":"Yuan Zhang","chicken":"✓","description":"","htmlfile":"suanlajizhen.html","size":"1 份","time":"1 小时"}
 ,{"fish":"✓","original_title":"","title":"蒜香鱼片","category":"STIR","source":"https://www.xiaohongshu.com/explore/6656f0ed000000001303ea19?app_platform=android&amp;ignoreEngage=true&amp;app_version=8.11.20&amp;share_from_user_hidden=true&amp;xsec_source=app_share&amp;type=video&amp;xsec_token=CBS4k6iqOLvWMALSpRNLb5FJFoz6MOyR-GksBe7ekRdYQ=&amp;author_share=1&amp;xhsshare=WeixinSession&amp;appuid=5eb8cd9500000000010026d2&amp;apptime=1735214471","author":"Yuan Zhang","description":"","htmlfile":"suanxiangyupian.html","size":"2 人份","time":"1 小时"}
 ]
