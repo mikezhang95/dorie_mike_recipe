@@ -23,4 +23,6 @@ source: https://www.youtube.com/watch?v=EQthbdsRezw
 * 小米辣
 * 生抽
 
-> 酱汁
+> 调酱汁
+>
+> ![](./assets/photos/yeziji.jpg)

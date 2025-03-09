@@ -17,3 +17,5 @@ source: https://www.youtube.com/watch?v=GzCeWoXRh9o
 * `4个`鸡蛋
 
 > 混合材料，烤箱上下火
+>
+> ![](./assets/photos/basike.jpg)
