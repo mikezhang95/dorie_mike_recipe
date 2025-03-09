@@ -1,0 +1,16 @@
+---
+title: 布朗尼蛋糕
+original_title: 
+category: DESSERT
+description: 
+size: 2 人份
+time: 30 分钟 
+vegan: ✓
+author: Yuan Zhang
+source: https://www.youtube.com/watch?v=GzCeWoXRh9o 
+---
+
+* `15g` 咖啡粉
+* `160g` 热水
+
+> 加热，出液布满底部离火
