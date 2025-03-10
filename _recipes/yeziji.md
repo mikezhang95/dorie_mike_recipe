@@ -24,5 +24,5 @@ source: https://www.youtube.com/watch?v=EQthbdsRezw
 * 生抽
 
 > 调酱汁
->
-> ![](./assets/photos/yeziji.jpg)
+
+>  ![](./assets/photos/yeziji.jpg)
