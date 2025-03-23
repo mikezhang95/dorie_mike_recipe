@@ -16,12 +16,17 @@ source: https://www.youtube.com/watch?v=EQthbdsRezw
 
 ---
 
-* `20g` 生抽
-* `5g` 老抽
-* `5g` 糖
+* `15g` 盐
+* `15g` 黑胡椒
+* `10g` 蒜粉
+* `10g` 孜然粉
+* `10g` 红甜椒粉
+* 橄榄油
 
 > 锡纸包裹，烤箱上下火150度2小时/140度3小时
 
 ---
 
 > 去除锡纸，烤箱风烤180度10分钟
+
+![](./assets/photos/niuleipai.jpg)
